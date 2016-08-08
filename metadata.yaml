@@ -1,0 +1,30 @@
+_repo: Promenades-autour-d-un-village_12889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12889'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Berry (France) -- Description and travel'
+- GITenberg
+title: Promenades autour d'un village
+url: http://www.gutenberg.org/ebooks/12889
